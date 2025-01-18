@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenido a MI GIHUB PAGES</h1>
+        <h1>Bienvenido a MI GITHUB PAGES</h1>
     </header>
 
     <section class="contenido">
